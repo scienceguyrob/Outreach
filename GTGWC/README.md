@@ -1,4 +1,4 @@
-# ProgrammingTasterEHU
+# Getting to Grips With Code
 The materials for an online taster session for prospective EHU students.
 
 The session was first delivered on February 6th, 2021.
