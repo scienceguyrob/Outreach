@@ -7,6 +7,6 @@ Materials produced by Dr. Rob Lyon, Senior Lecturer in the Department of Compute
 
 On-line link to resources that you can share with students:
 
-Activities files also available in Github at: https://github.com/scienceguyrob/ProgrammingTasterEHU
+Activities files also available in Github at: https://github.com/scienceguyrob/Outreach/tree/main/GTGWC
 
 To help get students going, you can share the GitHub link with them. This allows them to get access to the session document and Google Colab notebook.
